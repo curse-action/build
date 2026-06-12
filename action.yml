@@ -2,7 +2,7 @@ name: Build for CI
 description: build addons for luacheck
 author: Dencer
 runs:
-  using: node20
+  using: node24
   main: index.js
 branding:
   color: purple
